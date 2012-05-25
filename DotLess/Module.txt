@@ -1,0 +1,7 @@
+Name: DotLess
+AntiForgery: enabled
+Author: DotLess, Nick Daniels
+Website: http://www.dotlesscss.org
+Version: 1.3.0.3
+OrchardVersion: 1.0
+Description: Compiles less to css in themes and modules, using web.config or ILessCompilerService
